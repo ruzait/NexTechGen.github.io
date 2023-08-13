@@ -52,7 +52,9 @@
     no-repeat center;
     background-size: cover;
   }
-  
+  img{
+      height: 50%;
+  }
   footer {
     background-color: #19172e;
     text-align: center;
