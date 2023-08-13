@@ -47,10 +47,6 @@
     width: 36%;
     height: 20%;
     border-radius: 50%;
-  
-    background: url(assets/img.png)
-    no-repeat center;
-    background-size: cover;
   }
 
   footer {
