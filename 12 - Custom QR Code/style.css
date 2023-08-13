@@ -45,16 +45,14 @@
   
     /* don't go to big. otherwise the qr code is may not readable anymore */
     width: 36%;
-    height: 36%;
+    height: 20%;
     border-radius: 50%;
   
     background: url(assets/img.png)
     no-repeat center;
     background-size: cover;
   }
-  img{
-      height: 60px;
-  }
+
   footer {
     background-color: #19172e;
     text-align: center;
