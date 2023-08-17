@@ -1,6 +1,6 @@
 const text = document.getElementById("text");
 const speedEl = document.getElementById("speed");
-const prog = "30 Days of JavaScript";
+const prog = "Zainudeen Rusaid";
 let idx = 1;
 let speed = 300 / speedEl.value;
 
